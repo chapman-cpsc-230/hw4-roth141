@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** Lydia Roth  
 
-**Due date:** _\<date\>_
+**Due date:** 3/18/16
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+Creating histograms and programs using for loops and nested loops.
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+I learned how to use a nested for loop to produce varying results and create charts.
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Lydia Roth
